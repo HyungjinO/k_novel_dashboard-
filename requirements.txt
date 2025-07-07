@@ -1,0 +1,6 @@
+streamlit==1.46.1
+pandas==2.3.0
+gdown==5.2.0
+plotly==5.24.1
+streamlit-extras==0.7.5
+streamlit-keyup==0.3.0
